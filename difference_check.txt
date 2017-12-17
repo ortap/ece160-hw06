@@ -1,0 +1,12 @@
+//Comment: This command was used to create this file: diff -B -w -s -y myoutput.txt example_output.txt>difference_check.txt
+
+Cooper, Peter 							Cooper, Peter
+EE 1859 							EE 1859
+GPA: 3.75 							GPA: 3.75
+Astrauckas not found 						Astrauckas not found
+Astrauckas, Julia 						Astrauckas, Julia
+EE 2013 							EE 2013
+GPA: 3.00 							GPA: 3.00
+MS EE: 2015 							MS EE: 2015
+MS GPA: 4.00 							MS GPA: 4.00
+Files myoutput.txt and example_output.txt are identical
